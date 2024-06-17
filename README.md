@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://res.cloudinary.com/daravxjrz/image/upload/v1718624993/WhatsApp_Image_2024-06-17_at_5.18.32_PM_wsfqdi.jpg )
 <h1 align="center">Hi 👋, I'm Vivek Singh Bhadoria</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
