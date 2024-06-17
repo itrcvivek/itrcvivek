@@ -63,7 +63,13 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="Vivek_Singh_Bhadoria" /></p>
+<br>
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="Vivek_Singh_Bhadoria" /></p>
+<br>
+<br>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="Vivek_Singh_Bhadoria" /></p>
