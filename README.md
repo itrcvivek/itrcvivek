@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
+- 👨‍💻 My Linkedin Id is here [https://www.linkedin.com/in/vivek-singh-bhadoria](https://www.linkedin.com/in/vivek-singh-bhadoria)
 
 - ⚡ Fun fact **I am funny😅**
 
@@ -59,8 +59,8 @@
   </a>
 </p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vivek_Singh_Bhadoria&show_icons=true&locale=en&layout=compact" alt="Vivek_Singh_Bhadoria" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vivek_Singh_Bhadoria&show_icons=true&locale=en" alt="Vivek_Singh_Bhadoria" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek_Singh_Bhadoria&" alt="Vivek_Singh_Bhadoria" /></p>
