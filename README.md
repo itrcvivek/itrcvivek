@@ -57,10 +57,10 @@
   <a href="https://www.buymeacoffee.com/simplified"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" />
   </a>
-</p><br><br>
+</p><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vivek_Singh_Bhadoria&show_icons=true&locale=en&layout=compact" alt="Vivek_Singh_Bhadoria" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="Vivek_Singh_Bhadoria" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vivek_Singh_Bhadoria&show_icons=true&locale=en" alt="Vivek_Singh_Bhadoria" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="Vivek_Singh_Bhadoria" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek_Singh_Bhadoria&" alt="Vivek_Singh_Bhadoria" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="Vivek_Singh_Bhadoria" /></p>
