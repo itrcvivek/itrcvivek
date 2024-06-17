@@ -68,7 +68,5 @@
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="Vivek_Singh_Bhadoria" /></td>
     <td colspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="Vivek_Singh_Bhadoria" /></td>
   </tr>
-  <tr>
-    <td colspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="Vivek_Singh_Bhadoria" /></td>
-  </tr>
+  
 </table>
