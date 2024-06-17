@@ -54,10 +54,10 @@
 
 <h3 align="left">Support:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/simplified"> 
+<!--   <a href="https://www.buymeacoffee.com/simplified"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" />
-  </a>
-</p><br/>
+  </a> -->
+</p>
 <br>
 <br>
 <br>
@@ -68,8 +68,6 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="Vivek_Singh_Bhadoria" /></p>
-<br>
-<br>
-<br>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="Vivek_Singh_Bhadoria" /></p>
