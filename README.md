@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" />
 </p>
 
-- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/vivek-singh-bhadoria-5bb2a6167/
+- 👨‍💻 My Linkedin ID is available here <a href="https://www.linkedin.com/in/vivek-singh-bhadoria-5bb2a6167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
 - ⚡ Fun fact **I am funny😅**
 
