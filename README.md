@@ -9,13 +9,14 @@
   <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" />
 </p>
 
-- 👨‍💻 All of my projects are available at https://linktr.ee/simplified_learner
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/vivek-singh-bhadoria
 
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" />
+ <a href="https://www.linkedin.com/in/vivek-singh-bhadoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+alt="ashutosh mishra" height="30" width="40" />
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" />
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" />
 </p>
