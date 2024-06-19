@@ -7,7 +7,6 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=itrcvivek&theme=oldie"/>
-<img  src="https://github-profile-trophy.vercel.app/?username=itrcvivek&label=Profile%20views&color=0e75b6&style=flat"/>
 
  - 🌍 I'm based in **India**
 
