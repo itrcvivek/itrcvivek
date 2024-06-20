@@ -44,5 +44,10 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itrcvivek&show_icons=true&theme=dark"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itrcvivek&theme=dark"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itrcvivek&layout=compact&theme=dark"/>
+| GitHub Stats | Streak Stats | Top Languages |
+|--------------|--------------|---------------|
+| <img width="100%" src="https://github-readme-stats.vercel.app/api?username=itrcvivek&show_icons=true&theme=dark"/> | <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=itrcvivek&theme=dark"/> | <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itrcvivek&layout=compact&theme=dark"/> |
+
+
 
 
