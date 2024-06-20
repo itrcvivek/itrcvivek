@@ -41,11 +41,7 @@
 <a href="https://jquery.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728871/ease-prof/programming%20languages/jquery-4_pwnyqw.svg" height="40" width="40" alt=JQuery/>
 
 <h2>Badges</h2>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=itrcvivek&show_icons=true&theme=dark"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itrcvivek&theme=dark"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itrcvivek&layout=compact&theme=dark"/>
-| GitHub Stats | Streak Stats | Top Languages |
-|--------------|--------------|---------------|
+
 | <img width="100%" src="https://github-readme-stats.vercel.app/api?username=itrcvivek&show_icons=true&theme=dark"/> | <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=itrcvivek&theme=dark"/> | <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itrcvivek&layout=compact&theme=dark"/> |
 
 
