@@ -8,12 +8,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=itrcvivek&theme=oldie"/>
 
- - 🌍 I'm based in **India**
-
+- 🌍 I'm based in **India**
+- 🤗 Front-End Developer
+- 🔭 I’m currently working on React js Projects
+- 🌱 I’m currently learning Node js
+- 👯 I’m looking to collaborate on Node js + Mongo DB Projects
+- 🤔 I’m looking for help with Node js + Mongo DB
+- ⚡ Like: Travelling, Trekking, Riding, Closed to Nature
 - ✉️ Contact Me At *<u><a href=mailto:itrcvivek@gmail.com target="_blank">itrcvivek@gmail.com</a></u>*
 - 🚀 I'm currently working on *<u><a href=https://www.upwork.com/freelancers/~01d03f15c0646f4bcf target="_blank">Freelancing</a></u>* 
 - 🤝 I'm open to Collaborating on **GITHUB**
-- Code is everything.
+- ❤️ Code is everything.
 <h2>Social</h2>
 <a href="https://www.github.com/itrcvivek" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
 <a href="https://www.twitter.com/itrcvivek" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730463/ease-prof/social/twitter-tile_wvivtr.svg" height="40" width="40" alt=twitter/>
@@ -42,7 +47,7 @@
 
 <h2>Badges</h2>
 
-| <img width="100%" src="https://github-readme-stats.vercel.app/api?username=itrcvivek&show_icons=true&theme=dark"/> | <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=itrcvivek&theme=dark"/> | <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itrcvivek&layout=compact&theme=dark"/> |
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=itrcvivek&show_icons=true&theme=dark"/>  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=itrcvivek&theme=dark"/>  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itrcvivek&layout=compact&theme=dark"/> 
 
 
 
